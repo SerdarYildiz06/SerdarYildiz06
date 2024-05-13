@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://wakatime.com/@634ffc3f-7efc-47bd-99b7-e2e08071f7ec"><img src="https://wakatime.com/badge/user/634ffc3f-7efc-47bd-99b7-e2e08071f7ec.svg" alt="Total time coded since Jun 20 2022" /></a>
+
 <!--
 **SerdarYildiz06/SerdarYildiz06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
